@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="welcome_to_book_app">Welcome to Books App</string>
+    <string name="book_app">Books App\u00A0</string>
+    <string name="library">Library</string>
+    <string name="book">Book</string>
+    <string name="banner_image">Banner image</string>
+    <string name="return_to_the_main_screen">Return to the main screen</string>
+    <string name="the_book_s_cover">The book\'s cover</string>
+    <string name="genre">Genre</string>
+    <string name="quotes">Quotes</string>
+    <string name="likes">Likes</string>
+    <string name="readers">Readers</string>
+    <string name="summary">Summary</string>
+    <string name="you_will_also_like">You will also like</string>
+    <string name="read_now">Read Now</string>
+</resources>

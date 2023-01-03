@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="main_text" format="reference" />
+    <attr name="main_text_2" format="reference" />
+    <attr name="disabled_color" format="reference" />
+    <attr name="button_color" format="reference" />
+    <attr name="background" format="reference" />
+    <attr name="accent_main_color" format="reference" />
+    <attr name="image_background" format="reference" />
+    <attr name="white" format="reference" />
+    <attr name="progress_track" format="reference" />
+    <attr name="banner_default_dot" format="reference" />
+</resources>

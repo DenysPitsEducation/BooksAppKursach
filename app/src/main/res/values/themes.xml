@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BooksApp" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <item name="main_text">@color/black2</item>
+        <item name="main_text_2">@color/grey_dark</item>
+        <item name="disabled_color">@color/grey_light</item>
+        <item name="button_color">@color/pink</item>
+        <item name="background">@color/black3</item>
+        <item name="accent_main_color">@color/ruby</item>
+        <item name="image_background">@color/grey</item>
+        <item name="white">@color/white</item>
+        <item name="progress_track">@color/white_0.2</item>
+        <item name="banner_default_dot">@color/grey2</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

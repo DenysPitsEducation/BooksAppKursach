@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BookDescriptionValue">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">?main_text</item>
+    </style>
+
+    <style name="BookDescriptionKey">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?disabled_color</item>
+    </style>
+
+    <style name="DescriptionHeader">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">?main_text</item>
+    </style>
+
+    <style name="MainBookRecycler">
+        <item name="android:textViewStyle">@style/MainBookRecycler.TextView</item>
+    </style>
+
+    <style name="MainBookRecycler.TextView">
+        <item name="android:textColor">?white</item>
+        <item name="android:alpha">0.7</item>
+    </style>
+
+    <style name="DetailsBookRecycler">
+        <item name="android:textColor">?main_text_2</item>
+    </style>
+</resources>
